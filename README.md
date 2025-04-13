@@ -52,14 +52,6 @@ python face_detection.py
 - Draws rectangles around all detected faces for visualization.
 
 ---
-
-## 📁 File Structure
-
-```
-face-detection-opencv/
-│
-├── face_detection.py        # Main Python script
-├── README.md                # Project README
 ```
 
 ## 🔧 Future Enhancements
